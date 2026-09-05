@@ -1,26 +1,253 @@
+<!-- ===================== HEADER ===================== -->
+
 <h1 align="center">Hi 👋, I'm Mayank Jaiswal</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-jaiswal13&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-jaiswal13" /> </p>
+<h3 align="center">
+  Software Developer • Machine Learning Enthusiast • Problem Solver
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank-jaiswal13" alt="mayank-jaiswal13" /></a> </p>
-
-- 🔭 I’m currently working on **Machine Learning Projects**
-
-- 📫 How to reach me **em2mayankjaiswal@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayank-jaiswal-aa47b2241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-jaiswal-aa47b2241" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayank_jaiswal13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayank_jaiswal13" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mayank1306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mayank1306" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/mayank-jaiswal13">
+    <img src="https://komarev.com/ghpvc/?username=mayank-jaiswal13&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/mayank-jaiswal13?tab=followers">
+    <img src="https://img.shields.io/github/followers/mayank-jaiswal13?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/mayank-jaiswal13">
+    <img src="https://img.shields.io/github/stars/mayank-jaiswal13?label=Stars&style=flat" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-jaiswal13&show_icons=true&locale=en&layout=compact" alt="mayank-jaiswal13" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-jaiswal13&show_icons=true&locale=en" alt="mayank-jaiswal13" /></p>
+I'm **Mayank Jaiswal**, a developer interested in building practical software solutions and exploring **Machine Learning, Data Analytics, and modern software development**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-jaiswal13&" alt="mayank-jaiswal13" /></p>
+* 🔭 Currently working on **Machine Learning Projects**
+* 🌱 Exploring **Machine Learning, Data Analytics & Software Development**
+* 💻 Comfortable working with **Java, Python, SQL and modern development tools**
+* 🧠 Interested in **DSA, Machine Learning and real-world applications**
+* ⚡ I enjoy turning ideas into working projects
+* 📫 Reach me at **[em2mayankjaiswal@gmail.com](mailto:em2mayankjaiswal@gmail.com)**
+
+---
+
+## 🚀 What I'm Working On
+
+```text
+Machine Learning        ███████████████░░░░░  Exploring & Building
+Data Analytics          ██████████████░░░░░░  Learning & Applying
+Java / DSA              ████████████████░░░░  Practicing
+Web Development         ████████████░░░░░░░░  Building
+Cloud & DevOps          ████████░░░░░░░░░░░░  Exploring
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,flask" />
+</p>
+
+### 🤖 Machine Learning & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github" />
+</p>
+
+### 🎨 Design & Other Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,selenium" />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+> A selection of projects that represent what I'm learning and building.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Machine Learning Projects
+
+Projects focused on applying machine learning and data analysis to real-world problems.
+
+**Tech:** Python • Pandas • NumPy • Scikit-Learn • TensorFlow • PyTorch
+
+<a href="https://github.com/mayank-jaiswal13?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌐 Web Development
+
+Web applications and software projects built using modern development technologies.
+
+**Tech:** React • Flask • HTML • CSS • Tailwind
+
+<a href="https://github.com/mayank-jaiswal13?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Data Analytics
+
+Projects involving data cleaning, exploration, visualization and extracting useful insights.
+
+**Tech:** Python • Pandas • NumPy • SQL • Seaborn
+
+<a href="https://github.com/mayank-jaiswal13?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💻 DSA & Problem Solving
+
+Regular practice of data structures, algorithms and competitive programming problems.
+
+**Languages:** Java • C++ • Python
+
+<a href="https://leetcode.com/mayank_jaiswal13">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayank-jaiswal13&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-jaiswal13&layout=compact&langs_count=8&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-jaiswal13&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayank-jaiswal13&theme=flat&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank-jaiswal13&hide_border=true" />
+</p>
+
+---
+
+# 💡 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/mayank_jaiswal13">
+  <img src="https://img.shields.io/badge/LeetCode-mayank__jaiswal13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/mayank1306">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-mayank1306-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mayank-jaiswal-aa47b2241">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:em2mayankjaiswal@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/mayank-jaiswal13">
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <i>More contributions → more green 🟩</i>
+</p>
+
+<!--
+To enable the contribution snake:
+Create a GitHub Action that generates:
+github-contribution-grid-snake.svg
+inside an assets folder.
+-->
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep improving.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mayank-jaiswal13">
+    <img src="https://img.shields.io/badge/⭐%20Star%20my%20repositories-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
