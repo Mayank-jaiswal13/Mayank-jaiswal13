@@ -2,19 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Mayank Jaiswal</h1>
 
-<h3 align="center">
-  Software Developer • Machine Learning Enthusiast • Problem Solver
-</h3>
+<h3 align="center">Software Developer · Computer Science Student · ML Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/mayank-jaiswal13">
-    <img src="https://komarev.com/ghpvc/?username=mayank-jaiswal13&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/Mayank-jaiswal13">
+    <img src="https://komarev.com/ghpvc/?username=Mayank-jaiswal13&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/mayank-jaiswal13?tab=followers">
-    <img src="https://img.shields.io/github/followers/mayank-jaiswal13?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/mayank-jaiswal13">
-    <img src="https://img.shields.io/github/stars/mayank-jaiswal13?label=Stars&style=flat" alt="GitHub Stars"/>
+  <a href="https://github.com/Mayank-jaiswal13?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mayank-jaiswal13?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -22,232 +17,98 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mayank Jaiswal**, a developer interested in building practical software solutions and exploring **Machine Learning, Data Analytics, and modern software development**.
+I’m a Computer Science student who enjoys building practical software and exploring how machine learning can solve real-world problems. My recent work spans backend systems, logistics technology, explainable AI, and open-source Android tooling.
 
-* 🔭 Currently working on **Machine Learning Projects**
-* 🌱 Exploring **Machine Learning, Data Analytics & Software Development**
-* 💻 Comfortable working with **Java, Python, SQL and modern development tools**
-* 🧠 Interested in **DSA, Machine Learning and real-world applications**
-* ⚡ I enjoy turning ideas into working projects
-* 📫 Reach me at **[em2mayankjaiswal@gmail.com](mailto:em2mayankjaiswal@gmail.com)**
+- 🚚 Building **Godspeed**, a one-day intercity parcel delivery platform
+- 🤖 Exploring **Explainable AI** for academic applications and cloud task scheduling
+- 🌱 Learning through hands-on work in **Java, Spring Boot, Python, and distributed systems**
+- 🤝 Contributing to **Termux:API**
+- 📫 [em2mayankjaiswal@gmail.com](mailto:em2mayankjaiswal@gmail.com)
 
 ---
 
-## 🚀 What I'm Working On
+## ⭐ Featured Work
 
-```text
-Machine Learning        ███████████████░░░░░  Exploring & Building
-Data Analytics          ██████████████░░░░░░  Learning & Applying
-Java / DSA              ████████████████░░░░  Practicing
-Web Development         ████████████░░░░░░░░  Building
-Cloud & DevOps          ████████░░░░░░░░░░░░  Exploring
-```
+### 🚚 Godspeed — One-Day Delivery
+
+An intercity parcel delivery platform designed around a next-day delivery promise across five Indian cities. The backend uses a Java 21 and Spring Boot modular monolith, with PostgreSQL, RabbitMQ, and an H3-based service grid.
+
+**Focus areas:** shipment lifecycle, dispatch feasibility, parcel scan tracking, routing, and per-leg SLA monitoring.
+
+[View project →](https://github.com/Mayank-jaiswal13/one_day_delivery)
+
+### 🧠 Explainable AI for Academic Applications
+
+A project exploring explainable AI in an academic setting.
+
+[View project →](https://github.com/Mayank-jaiswal13/BTP2CSE114_Explainable-AI-for-Academic)
+
+### ☁️ Metaheuristic Task Scheduling
+
+A cloud infrastructure task-scheduling project focused on metaheuristic algorithms.
+
+[View project →](https://github.com/Mayank-jaiswal13/PT171-Meta_heuristic_algorithm_for_task_scheduling_in_cloud_infrastructure)
+
+### 🛠️ Open Source — Termux:API
+
+I opened [PR #924](https://github.com/termux/termux-api/pull/924) to handle scheduled jobs that do not require network connectivity when displaying job information.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,react,tailwind,flask" alt="Java, Python, C++, C, HTML, CSS, React, Tailwind, Flask"/>
 </p>
-
-### 🌐 Web Development
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,flask" />
+  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,sqlite,rabbitmq,docker,aws,linux,git,github" alt="Spring, PostgreSQL, MySQL, SQLite, RabbitMQ, Docker, AWS, Linux, Git, GitHub"/>
 </p>
-
-### 🤖 Machine Learning & Data
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle" />
-</p>
-
-### ☁️ Cloud, DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github" />
-</p>
-
-### 🎨 Design & Other Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,selenium" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Python%20%7C%20PyTorch%20%7C%20TensorFlow-3776AB?style=for-the-badge" alt="Machine learning with Python, PyTorch, and TensorFlow"/>
 </p>
 
 ---
 
-# ⭐ Featured Projects
-
-> A selection of projects that represent what I'm learning and building.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Machine Learning Projects
-
-Projects focused on applying machine learning and data analysis to real-world problems.
-
-**Tech:** Python • Pandas • NumPy • Scikit-Learn • TensorFlow • PyTorch
-
-<a href="https://github.com/mayank-jaiswal13?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🌐 Web Development
-
-Web applications and software projects built using modern development technologies.
-
-**Tech:** React • Flask • HTML • CSS • Tailwind
-
-<a href="https://github.com/mayank-jaiswal13?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 Data Analytics
-
-Projects involving data cleaning, exploration, visualization and extracting useful insights.
-
-**Tech:** Python • Pandas • NumPy • SQL • Seaborn
-
-<a href="https://github.com/mayank-jaiswal13?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 💻 DSA & Problem Solving
-
-Regular practice of data structures, algorithms and competitive programming problems.
-
-**Languages:** Java • C++ • Python
-
-<a href="https://leetcode.com/mayank_jaiswal13">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayank-jaiswal13&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-jaiswal13&layout=compact&langs_count=8&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mayank-jaiswal13&show_icons=true&hide_border=true" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-jaiswal13&layout=compact&langs_count=8&hide_border=true" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-jaiswal13&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-jaiswal13&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+## 💡 Coding Profiles
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayank-jaiswal13&theme=flat&no-frame=true&margin-w=10&row=1" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank-jaiswal13&hide_border=true" />
-</p>
-
----
-
-# 💡 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/mayank_jaiswal13">
-  <img src="https://img.shields.io/badge/LeetCode-mayank__jaiswal13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/mayank1306">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-mayank1306-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/mayank-jaiswal-aa47b2241">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:em2mayankjaiswal@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/mayank-jaiswal13">
-  <img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <i>More contributions → more green 🟩</i>
-</p>
-
-<!--
-To enable the contribution snake:
-Create a GitHub Action that generates:
-github-contribution-grid-snake.svg
-inside an assets folder.
--->
-
----
-
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
-
-<p align="center">
-  <i>Keep learning. Keep building. Keep improving.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mayank-jaiswal13">
-    <img src="https://img.shields.io/badge/⭐%20Star%20my%20repositories-181717?style=for-the-badge&logo=github"/>
+  <a href="https://leetcode.com/mayank_jaiswal13">
+    <img src="https://img.shields.io/badge/LeetCode-mayank__jaiswal13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/mayank1306">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-mayank1306-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/mayank-jaiswal-aa47b2241">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:em2mayankjaiswal@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mayank-jaiswal13">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+  </a>
+</p>
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
